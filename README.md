@@ -1,6 +1,6 @@
 # exercise1
 
-pip install pipenv
+1. pip install pipenv
 pipenv shell 
 pip install Django
 pip install djangorestframework
