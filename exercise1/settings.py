@@ -78,6 +78,7 @@ WSGI_APPLICATION = 'exercise1.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
+    # Change database settings here to your own
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'batchRecords',
