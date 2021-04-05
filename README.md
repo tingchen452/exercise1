@@ -1,9 +1,14 @@
 # exercise1
 
-1. pip install pipenv
+1. Install the virtual environment and go into it: 
+
+pip install pipenv
+
 pipenv shell 
-pip install Django
-pip install djangorestframework
+
+3. pip install Django
+ 
+6. pip install djangorestframework
 pip install django-extensions
 pip install psycopg2
 
